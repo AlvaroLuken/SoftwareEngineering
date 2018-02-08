@@ -13,4 +13,10 @@ active and contributing.
 - The author also outlines the difference between a Cathderal model of building versus that of a Bazaar. These were supposed to be metaphors for 
 closed-source vs open-source but they can also be direct parallels to the waterfall and agile models that we have studied in class.
 
+## Comment - Suyasha Shrestha
+
+- I think this article is interesting as well and I like his comparison of open source projects to a bazaar. I like the idea of less rigidity and more collaboration with different people in the open source style, although I've never took part in that type of development. I think the pros of open source developement are interesting as well - of using users who may be developers as a way to improve the project.
+
+
+
 
